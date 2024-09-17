@@ -1,3 +1,5 @@
+//pranjal was here lol
+
 package CentralTendancies;
 
 public class CentralTendancies {
